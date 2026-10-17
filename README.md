@@ -1,2 +1,1 @@
-# public-assets
-Public, ready-to-use Cleansoft files (email signature logo, favicon, social images). No source files — see the private brand-assets repo.
+© Cleansoft. All rights reserved. The CLEANSOFT name and logo are trademarks of CleanSoft doo, Novi Sad and may not be used without written permission.
